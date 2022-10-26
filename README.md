@@ -1,4 +1,4 @@
-<h1 align="center"> Todo List </h1>
+<h1 align="center"> Watch Me </h1>
 
 <p align="center">
 Desafio desenvolvido em conjunto com a Rocketseat com a finalidade de aprimorar os fundamentos do ReactJS, em especial, a componentização da aplicação.
